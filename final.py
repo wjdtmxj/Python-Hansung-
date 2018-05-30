@@ -126,6 +126,8 @@ class Ui_Main(object):
 "\n"
 "S.S\n"
 " ", None))
+        
+        
         self.comboBox.setItemText(0, _translate("Main", "-----선택-----", None))
         self.comboBox.setItemText(1, _translate("Main", "Subway 1", None))
         self.comboBox.setItemText(2, _translate("Main", "Subway 2", None))
